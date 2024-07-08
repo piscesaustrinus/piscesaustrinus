@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @piscesaustrinus
+- 👋 Hi, I’m @piscesaustrinus aka Sanskruti
 - 👀 I’m interested in Machine Learning hehe
 - 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on ...
