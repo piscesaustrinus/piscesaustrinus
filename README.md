@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @piscesaustrinus aka Sanskruti
-- 👀 I’m interested in Machine Learning hehe
+- 👀 I’m interested in Machine Learning (:
 - 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mY EMAIL <3
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: i'd like to pet all the cats and dogs in this lifetime
+- ⚡ Fun fact: we'll let this slide
 
 <!---
 piscesaustrinus/piscesaustrinus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
