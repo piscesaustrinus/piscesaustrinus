@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @piscesaustrinus aka Sanskruti
-- 👀 I’m interested in Machine Learning (:
+- 👀 I’m interested in everythinggg
 - 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mY EMAIL <3
